@@ -10,7 +10,7 @@ Go is needed to install https://github.com/FiloSottile/mkcert (but Go is not a r
 
 Clone this repository:
 
-    $ git clone --recurse-submodules git@github.com:OpenSlides/OpenSlides.git
+    $ git clone --recurse-submodules git@github.com:Beammedown/lsv-openslides.git
 
 After cloning you need to initialize all submodules:
 
